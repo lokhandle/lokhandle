@@ -1,4 +1,4 @@
-👋 Hi, I’m @lokhandle
+👋 Hi, I’m Anagha
 
 👀 I’m interested in ...
 

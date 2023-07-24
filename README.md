@@ -1,4 +1,4 @@
-Working on data science for medical research and public health
+
 
 <!---
 lokhandle/lokhandle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
